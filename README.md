@@ -112,3 +112,11 @@ npm run Devstart
 
 
 ## Some of Screenshots
+![Landing](https://github.com/ijaas2003/Guest-House-Management/assets/88438635/803762f3-af57-4bb5-9ce1-e4c34103bcb6)
+![View Booking](https://github.com/ijaas2003/Guest-House-Management/assets/88438635/1b1eb0e3-f123-47f9-8ca0-f14805c36a5e)
+![Login](https://github.com/ijaas2003/Guest-House-Management/assets/88438635/c5963a0f-9b11-4232-8e1a-9f43c7dc3e7d)
+![Home](https://github.com/ijaas2003/Guest-House-Management/assets/88438635/1dbe17f2-4c42-455f-94ea-f1a2e0d411ec)
+![Error on already booked house](https://github.com/ijaas2003/Guest-House-Management/assets/88438635/bfe2aabe-a5ea-44be-8f67-08fa674f3e04)
+![Payment](https://github.com/ijaas2003/Guest-House-Management/assets/88438635/58e04495-b522-45e1-9387-7e83868e4cbf)
+![Edit Details](https://github.com/ijaas2003/Guest-House-Management/assets/88438635/90ae2c34-71a4-4187-a570-7ed10524a104)
+![Add House](https://github.com/ijaas2003/Guest-House-Management/assets/88438635/7aa175b4-05ae-46e8-92a6-c710cc976d55)
