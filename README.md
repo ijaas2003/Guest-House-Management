@@ -112,13 +112,3 @@ npm run Devstart
 
 
 ## Some of Screenshots
-
-![home](https://github.com/MuthuBrijesh/Bike_Service_Application/assets/81966663/dafc4e21-1451-439c-8558-54eff5bc7961)
-
-![login](https://github.com/MuthuBrijesh/Bike_Service_Application/assets/81966663/0856fe1d-e8b9-4a69-b97a-7f53c35138aa)
-
-![book](https://github.com/MuthuBrijesh/Bike_Service_Application/assets/81966663/2981e36e-d869-44dc-ba50-82e28fc67abe)
-
-![history](https://github.com/MuthuBrijesh/Bike_Service_Application/assets/81966663/640a0b50-6955-4a3a-9ee4-ad24a010f553)
-
-![service](https://github.com/MuthuBrijesh/Bike_Service_Application/assets/81966663/7f8ea71c-b2e2-408c-9acd-13f7bc26997e)
